@@ -5,8 +5,8 @@
 
 ---
 
-### 🛠️ Технические навыки
+🛠️ Технические навыки
 
-- **Инструменты:** DevTools, Postman, SQL, Swagger, Jira, Fiddler, Git, Charles Proxy, Android Studio, UNIX.
-- **Языки программирования:** Java, Python.
-- **Технологии:** REST, SOAP
+- Инструменты: DevTools, Postman, SQL, Swagger, Jira, Fiddler, Git, Charles Proxy, Android Studio, UNIX.
+- Языки программирования: Java, Python.
+- Технологии: REST, SOAP
